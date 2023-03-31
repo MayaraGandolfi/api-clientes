@@ -1,0 +1,14 @@
+{
+    "clientes":[
+        {
+            "Nome" : "Maria",
+            "Idade": 30,
+            "Telefone": "3344-5566"
+        },
+        {
+            "Nome" : "João",
+            "Idade": 27,
+            "Telefone": "41 9 9988-7766"
+        }
+    ]
+}
